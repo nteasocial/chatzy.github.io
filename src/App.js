@@ -89,7 +89,7 @@ function App() {
           <h2 className="mb-2 text-3xl flex items-center">
             <img
               style={{ width: "90px", height: "120px" }}
-              src={process.env.PUBLIC_URL + "/Open Peeps - Bust.png"}
+              src={process.env.PUBLIC_URL + "/Open Peeps - Bust.png"} alt="chat-picture"
             />
             <br />
             Chat Palace
