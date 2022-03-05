@@ -1,0 +1,25 @@
+{
+  "short_name": "Chatty Patty",
+  "name": "CHATBOX/T",
+  "icons": [
+    {
+      "src": "hot_chocolate_drink_cup_glass_icon_210192.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Open Peeps - Bust.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Open Peeps - Avatar.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
